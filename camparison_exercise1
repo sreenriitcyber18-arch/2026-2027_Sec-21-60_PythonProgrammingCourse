@@ -1,0 +1,22 @@
+#Python comparison operators exercise
+a=8
+b=5
+result= a > b #Greater than comparison operators
+print("result of ",a, ">",b,"is :", result)
+
+result= a < b #Less than comparison operator
+print("result of ",a, "<",b,"is :", result)
+
+result= a == b #Less than comparison operator
+print("result of ",a, "==",b,"is :", result)
+
+result= a != b #Less than comparison operator
+print("result of ",a, "!=",b,"is :", result)
+
+result= a <= b #Less than comparison operator
+print("result of ",a, "<=",b,"is :", result)
+
+result= a >= b #Less than comparison operator
+print("result of ",a, ">=",b,"is :", result)
+
+
